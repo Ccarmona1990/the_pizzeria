@@ -1,0 +1,12 @@
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "./custom_variables";
+@import "./header";
+@import "./hero";
+@import "./footer";
+
+
+body{
+    background-color: $primary_color;
+}
+
